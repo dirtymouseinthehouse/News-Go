@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "talksport",
+    "name": "TalkSport"
+    },
+    "author": "Josh Fordham",
+    "title": "Former Arsenal chief David Dein calls for football to move to 60 minute matches with stop-clock and says...",
+    "description": "",
+    "url": "https://talksport.com/football/1294122/former-arsenal-chief-david-dein-60-minute-matches/",
+    "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/01/e178b82b-ffbe-4f3f-9ee0-291ebcf69df6.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+    "publishedAt": "2023-01-05T12:42:54Z",
+    "content": "Former Arsenal vice-chairman David Dein has called for football matches to be reduced from 90 to 60 minutes.\r\nDein joined talkSPORT to discuss his proposals to make games two 30 minutes halves, with … [+3940 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-sports",
+    "name": "Fox Sports"
+    },
+    "author": "Eric Williams",
+    "title": "Darrelle Revis, Devin Hester headline Hall of Fame Class of 2023 Finalists",
+    "description": "Darrelle Revis, Devin Hester, Torry Holt, DeMarcus Ware and Joe Thomas top the list of finalists for the Pro Football Hall of Fame.",
+    "url": "http://www.foxsports.com/stories/nfl/darrelle-revis-devin-hester-headline-hall-of-fame-class-of-2023-finalists",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/01/1408/814/01.04.23_HOFFinalists_Horizontal.jpg?ve=1&tl=1",
+    "publishedAt": "2023-01-05T01:59:10Z",
+    "content": "One of the top shutdown corners in NFL history and perhaps the greatest returner to ever play the game are among 15 finalists selected for the Pro Football Hall of Fame Class of 2023, it was announce… [+2721 chars]"
+    },
+    {
+    "source": {
+    "id": "bleacher-report",
+    "name": "Bleacher Report"
+    },
+    "author": "David Kenyon",
+    "title": "The 2022 College Football All-Bowl Season Team",
+    "description": "Bowl season has come to a close, but Bleacher Report is looking back at the best individual performances of the 2022 showcases. TCU is prominently featured...",
+    "url": "https://bleacherreport.com/articles/10060415-the-2022-college-football-all-bowl-season-team",
+    "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1672691204/dspjo8g3foqz6jps582t.jpg",
+    "publishedAt": "2023-01-04T12:00:00Z",
+    "content": "Johnny WilsonPeter Joneleit/Icon Sportswire via Getty Images\r\nWR: Johnny Wilson, Florida State\r\nThe only thing Johnny Wilson didn't manage is a touchdown. Still, he provided a clutch 58-yard catch la… [+1372 chars]"
+    },
+    {
+    "source": {
+    "id": "le-monde",
+    "name": "Le Monde"
+    },
+    "author": null,
+    "title": "Vidéo. Mort de Pelé : les secrets d’un surnom de légende",
+    "description": "Vidéo - Le footballeur brésilien Pelé tenait son surnom de l’enfance. Une histoire personnelle, liée aux origines modestes de sa famille.",
+    "url": "https://www.lemonde.fr/disparitions/video/2022/12/29/mort-de-pele-les-secrets-d-un-surnom-de-legende_6156028_3382.html",
+    "urlToImage": "https://img.lemde.fr/2022/12/01/289/0/2835/1890/1440/960/60/0/be93e66_1669906565297-00045050.jpg",
+    "publishedAt": "2022-12-29T19:17:40Z",
+    "content": "<li>Parce quune autre personne (ou vous) est en train de lire Le Monde avec ce compte sur un autre appareil.\r\nVous ne pouvez lire Le Monde que sur un seul appareil à la fois (ordinateur, téléphone ou… [+626 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+    "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+    "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+    "publishedAt": "2020-04-27T07:20:43Z",
+    "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+    ]
+    }
